@@ -1,3 +1,4 @@
+$ pip install streamlit --upgrade
 import streamlit as st
 import math
 import pandas as pd
